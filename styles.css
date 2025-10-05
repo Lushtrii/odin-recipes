@@ -36,6 +36,6 @@ a:hover {
   text-decoration: none;
 }
 
-.recipe-item a:visited {
+.recipe:visited {
   color: black;
 }
