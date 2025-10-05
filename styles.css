@@ -19,7 +19,8 @@
   border-radius: 10px;
 }
 
-.recipe:hover {
+.recipe:hover,
+.home-link:hover {
   background-color: #3496ed;
 }
 
@@ -38,4 +39,39 @@ a:hover {
 
 .recipe:visited {
   color: black;
+}
+
+.ingredients-header,
+.steps-header {
+  margin: 20px 0px;
+}
+
+.ingredients li {
+  margin: 10px 0px;
+}
+
+.steps li {
+  margin: 20px 0px;
+}
+
+.home-link {
+  display: block;
+  text-align: center;
+  width: 110px;
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: lightblue;
+  border-radius: 10px;
+}
+
+.home-link:visited {
+  color: black;
+}
+
+.recipe-title {
+  margin-bottom: 20px;
+}
+
+.ingredients {
+  margin: 30px 0px;
 }
