@@ -5,7 +5,7 @@
   font-family: Inter, Helvetica, sans-serif;
 }
 
-ul {
+.nav-links {
   height: 60vh;
   list-style-type: none;
 }
